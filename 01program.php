@@ -1,5 +1,7 @@
 <?php
-echo("Witaj")
+echo("Witaj");
 echo("<br> Jestem programem 01");
-echo ("Nie wiem co sie tu robi")
+echo ("<br>Nie wiem co sie tu robi");
+echo ("<br> To jest dziwne");
+echo ("<br> Dalsza część programu");
 ?>
